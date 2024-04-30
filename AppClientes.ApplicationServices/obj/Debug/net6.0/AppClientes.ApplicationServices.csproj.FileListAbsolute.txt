@@ -1,0 +1,30 @@
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.deps.json
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.AssemblyInfo.cs
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.CopyComplete
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\refint\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\ref\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.deps.json
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.ApplicationServices.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.csproj.CopyComplete
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\refint\AppClientes.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\AppClientes.ApplicationServices.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.ApplicationServices\obj\Debug\net6.0\ref\AppClientes.ApplicationServices.dll

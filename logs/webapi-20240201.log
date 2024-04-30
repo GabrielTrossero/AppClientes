@@ -1,0 +1,23 @@
+2024-02-01 23:45:37.205 -03:00  INF  Now listening on: http://localhost:5279
+2024-02-01 23:45:37.281 -03:00  INF  Application started. Press Ctrl+C to shut down.
+2024-02-01 23:45:37.282 -03:00  INF  Hosting environment: Development
+2024-02-01 23:45:37.283 -03:00  INF  Content root path: D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes\
+2024-02-01 23:45:38.537 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/index.html - -
+2024-02-01 23:45:40.501 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/index.html - - - 200 - text/html;charset=utf-8 1977.6915ms
+2024-02-01 23:45:40.805 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - -
+2024-02-01 23:45:40.805 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_vs/browserLink - -
+2024-02-01 23:45:40.815 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 10.2332ms
+2024-02-01 23:45:40.891 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 86.5049ms
+2024-02-01 23:45:41.127 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - -
+2024-02-01 23:45:41.550 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 422.5001ms
+2024-02-01 23:45:44.995 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/api/Cliente/getClientes - -
+2024-02-01 23:45:45.017 -03:00  INF  Executing endpoint 'AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI)'
+2024-02-01 23:45:45.078 -03:00  INF  Route matched with {action = "GetAll", controller = "Cliente"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller AppClientes.Controllers.ClienteController (AppClientes.WebAPI).
+2024-02-01 23:45:46.131 -03:00  INF  Seri Log is Working
+2024-02-01 23:45:50.529 -03:00  INF  Executed DbCommand (118ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[id], [c].[apellidos], [c].[cuit], [c].[domicilio], [c].[email], [c].[fecha_nac], [c].[nombres], [c].[telefono]
+FROM [Cliente] AS [c]
+2024-02-01 23:45:50.876 -03:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AppClientes.Model.Entities.Cliente, AppClientes.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-02-01 23:45:50.943 -03:00  INF  Executed action AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI) in 5852.8288ms
+2024-02-01 23:45:50.944 -03:00  INF  Executed endpoint 'AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI)'
+2024-02-01 23:45:50.972 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/api/Cliente/getClientes - - - 200 - application/json;+charset=utf-8 5976.5336ms

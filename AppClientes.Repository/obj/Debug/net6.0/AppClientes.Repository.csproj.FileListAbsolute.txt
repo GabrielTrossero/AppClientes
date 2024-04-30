@@ -1,0 +1,34 @@
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.deps.json
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.runtimeconfig.json
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.AssemblyInfo.cs
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.CopyComplete
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\refint\AppClientes.Repository.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.genruntimeconfig.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\ref\AppClientes.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.deps.json
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.runtimeconfig.json
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Repository.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.csproj.CopyComplete
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\refint\AppClientes.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\AppClientes.Repository.genruntimeconfig.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Repository\obj\Debug\net6.0\ref\AppClientes.Repository.dll

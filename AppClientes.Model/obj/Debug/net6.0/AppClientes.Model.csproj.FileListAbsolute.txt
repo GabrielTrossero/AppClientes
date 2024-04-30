@@ -1,0 +1,28 @@
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.deps.json
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.AssemblyInfo.cs
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\refint\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\ref\AppClientes.Model.dll
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.runtimeconfig.json
+D:\Gabi\Cursos\.NET\ABM_Clientes\Proyecto\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.genruntimeconfig.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.deps.json
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.runtimeconfig.json
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\bin\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\refint\AppClientes.Model.dll
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\AppClientes.Model.genruntimeconfig.cache
+D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes.Model\obj\Debug\net6.0\ref\AppClientes.Model.dll

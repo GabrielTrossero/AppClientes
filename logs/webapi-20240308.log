@@ -1,0 +1,48 @@
+2024-03-08 17:44:55.265 -03:00  INF  Now listening on: http://localhost:5279
+2024-03-08 17:44:55.346 -03:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-08 17:44:55.347 -03:00  INF  Hosting environment: Development
+2024-03-08 17:44:55.347 -03:00  INF  Content root path: D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes\
+2024-03-08 17:45:01.185 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger - -
+2024-03-08 17:45:01.578 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger - - - 301 0 - 400.3513ms
+2024-03-08 17:45:01.629 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/index.html - -
+2024-03-08 17:45:02.919 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/index.html - - - 200 - text/html;charset=utf-8 1289.3983ms
+2024-03-08 17:45:03.088 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui.css - -
+2024-03-08 17:45:03.091 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui-bundle.js - -
+2024-03-08 17:45:03.095 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui-standalone-preset.js - -
+2024-03-08 17:45:03.241 -03:00  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-03-08 17:45:03.242 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui.css - - - 200 143632 text/css 154.3545ms
+2024-03-08 17:45:03.245 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - -
+2024-03-08 17:45:03.250 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 5.0527ms
+2024-03-08 17:45:03.327 -03:00  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-03-08 17:45:03.327 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 232.2381ms
+2024-03-08 17:45:03.343 -03:00  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-03-08 17:45:03.343 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 252.2403ms
+2024-03-08 17:45:03.429 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_vs/browserLink - -
+2024-03-08 17:45:03.535 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 105.3128ms
+2024-03-08 17:45:03.841 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - -
+2024-03-08 17:45:03.977 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/favicon-32x32.png - -
+2024-03-08 17:45:03.978 -03:00  INF  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-03-08 17:45:03.979 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/favicon-32x32.png - - - 200 628 image/png 2.0923ms
+2024-03-08 17:45:04.043 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 202.0404ms
+2024-03-08 17:45:19.033 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/api/Cliente/getClientes - -
+2024-03-08 17:45:19.340 -03:00  INF  Executing endpoint 'AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI)'
+2024-03-08 17:45:21.495 -03:00  INF  Route matched with {action = "GetAll", controller = "Cliente"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller AppClientes.Controllers.ClienteController (AppClientes.WebAPI).
+2024-03-08 17:45:57.586 -03:00  INF  Executed DbCommand (916ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[id], [c].[apellidos], [c].[cuit], [c].[domicilio], [c].[email], [c].[fecha_nac], [c].[nombres], [c].[telefono]
+FROM [Cliente] AS [c]
+2024-03-08 17:45:57.816 -03:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[AppClientes.Model.Entities.Cliente, AppClientes.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-03-08 17:45:57.875 -03:00  INF  Executed action AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI) in 36368.0701ms
+2024-03-08 17:45:57.877 -03:00  INF  Executed endpoint 'AppClientes.Controllers.ClienteController.GetAll (AppClientes.WebAPI)'
+2024-03-08 17:45:57.921 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/api/Cliente/getClientes - - - 200 - application/json;+charset=utf-8 38887.6848ms
+2024-03-08 17:48:42.371 -03:00  INF  Now listening on: http://localhost:5279
+2024-03-08 17:48:42.452 -03:00  INF  Application started. Press Ctrl+C to shut down.
+2024-03-08 17:48:42.453 -03:00  INF  Hosting environment: Development
+2024-03-08 17:48:42.453 -03:00  INF  Content root path: D:\Gabi\Cursos\Angular + .NET\ABM_Clientes\AppClientes\AppClientes\AppClientes\
+2024-03-08 17:48:45.108 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/index.html - -
+2024-03-08 17:48:46.113 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/index.html - - - 200 - text/html;charset=utf-8 1018.6249ms
+2024-03-08 17:48:46.233 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - -
+2024-03-08 17:48:46.245 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/_vs/browserLink - -
+2024-03-08 17:48:46.251 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_framework/aspnetcore-browser-refresh.js - - - 200 12006 application/javascript;+charset=utf-8 18.3571ms
+2024-03-08 17:48:46.299 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.8998ms
+2024-03-08 17:48:46.665 -03:00  INF  Request starting HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - -
+2024-03-08 17:48:47.141 -03:00  INF  Request finished HTTP/1.1 GET http://localhost:5279/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 476.6718ms
