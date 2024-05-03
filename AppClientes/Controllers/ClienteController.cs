@@ -50,6 +50,11 @@ namespace AppClientes.Controllers
             {
                 Cliente? cliente = this.clienteService.GetId(idCliente);
 
+                if (cliente == null)
+                {
+                    return NotFound();
+                }
+
                 return Ok(cliente);
             }
             catch (Exception ex)
